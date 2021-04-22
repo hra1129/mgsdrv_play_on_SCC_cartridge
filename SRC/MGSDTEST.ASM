@@ -484,6 +484,6 @@ main_program_address::
 ; ==============================================================================
 MGS_BANK			:= 3			; 3 and 4
 
-		binary_link	"../MGS/NEOKOBE.MGS"
+		binary_link	"../MGS/TEST.MGS"
 		align		8192
 end_of_program::
