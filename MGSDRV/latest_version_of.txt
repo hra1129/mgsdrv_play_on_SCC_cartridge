@@ -4,5 +4,5 @@ The latest version of MGSDRV can be obtained from here.
   Download of MGSDRV.COM
   https://gigamix.hatenablog.com/entry/mgsdrv/#MGSDRV%E6%9C%AC%E4%BD%93-%E5%BF%85%E9%A0%88
 
-  License
+  License, MGSDRV Copyright (c) Ain./Gigamix
   https://gigamix.hatenablog.com/entry/mgsdrv/#MGSDRV%E3%81%AE%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9

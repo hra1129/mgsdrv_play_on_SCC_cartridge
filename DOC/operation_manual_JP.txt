@@ -1,0 +1,5 @@
+1. "TEST.MGS" というファイル名の MGSファイルを MGSフォルダーにコピーします。
+
+2. BUILD.BAT を実行すると、MGSDTEST.ROM が作られます。
+
+3. MGSDTEST.ROM を、SCC搭載ROMカートリッジに書き込んで利用します。

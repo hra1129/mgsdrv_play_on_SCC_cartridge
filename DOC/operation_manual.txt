@@ -1,0 +1,5 @@
+1. Copy "TEST.MGS" to the MGS folder.
+
+2. Run BUILD.BAT.
+
+3. Write MGSDTEST.ROM into the ROM of the SCC-equipped cartridge.
