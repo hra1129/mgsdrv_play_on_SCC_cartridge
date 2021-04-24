@@ -4,7 +4,7 @@
 
 2. MGSDRV does not switch the SCC bank2 (8000h-9FFFh) to the SCC Register Bank in the H.TIMI routine. 
    The MGSDRV operates on the assumption that it is always the SCC Register Bank.
-3. MGSDRV operates on the assumption that the song data is in the 8000h-BFFFh range.
+3. MGSDRV operates on the assumption that the song data is in the 4000h-5FFFh or 8000h-BFFFh range.
 4. MGSDRV does not assume a case where MGS data and SCC sound source exist in the same slot.
 5. MGSDRV assumes that the MGS data and the SCC sound source are always in different slots.
 
